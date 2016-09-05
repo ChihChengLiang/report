@@ -1,4 +1,14 @@
-# report
+# 公務出國報告查詢統計網
+
+## 安裝
+
+```
+make build
+make run
+```
+
+
+## 參與
 
 成果網址: http://catding.twbbs.org/report/
 
