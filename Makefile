@@ -5,3 +5,4 @@ run:
 stop:
 		docker stop report
 		docker rm report
+restart:	stop	build	run
