@@ -1,12 +1,13 @@
 # 公務出國報告查詢統計網
 
-## 安裝
+## 使用 Docker 安裝
 
 ```
 make build
 make run
 ```
 
+開啟瀏覽器： http://localhost:3000/report/
 
 ## 參與
 
